@@ -1,5 +1,9 @@
+# Stuff
+.vscode/
+*.dSYM/
 # Prerequisites
 *.d
+
 
 # Compiled Object files
 *.slo
